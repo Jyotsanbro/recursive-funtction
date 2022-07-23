@@ -14,3 +14,4 @@ main(){
 	scanf("%d",&num);
 	printf("factorial of %d is %d",num,fact(num));
 }
+//hello big fan
